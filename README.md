@@ -1,5 +1,10 @@
 # FO-Formatter
 
+General print formatter for various objects
+
+DateAndTime.
+And more... (not yet)
+
 # Installation
 
 ```smalltalk
