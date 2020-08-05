@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "FO-Formatter-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writers"
+	],
+	"name" : "FODateAndTimeWriter",
+	"type" : "normal"
+}

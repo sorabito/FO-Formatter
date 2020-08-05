@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FOToken",
+	"category" : "FO-Formatter-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"character"
+	],
+	"name" : "FOCharacterToken",
+	"type" : "normal"
+}
