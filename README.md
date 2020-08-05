@@ -16,7 +16,7 @@ DateAndTime now printStringFormatting: 'M'. "'8'"
 
 ```smalltalk
 Metacello new
- baseline:'BaselineOfFOFormatter';
+ baseline:'FOFormatter';
  repository: 'github://sorabito/FO-Formatter/repository';
  load.
 ```
